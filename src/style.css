@@ -1,0 +1,19 @@
+.body{display:block;
+    margin:20px 50px 50px 200px;
+    background-color: rgb(167, 32, 32);
+     width:900px;height:500px}
+
+ .title{padding-top:20px;
+    text-align: center;;
+    color: gold;}
+
+.profilImage  {
+    float:left; margin-left:50px;
+    width :250px; 
+    height:320px}
+
+.adress{
+    padding:50px 0 0 80px;
+    display:flex;
+    flex-direction: column;
+    color:white }
